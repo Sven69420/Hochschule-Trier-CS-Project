@@ -41,3 +41,4 @@ I installed it via copying the whole github branch, hence my install location is
 ## Grounded SAM
 
 For the Grounded SAM models, just copy the one from CH10 given to us by Nicolas from the Hochschule Trier Robotics Lab. 
+It is important that you keep it within the same file structure though, so put it into a folder called "Grounded_SAM" as show above.
