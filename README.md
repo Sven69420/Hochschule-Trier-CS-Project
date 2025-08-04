@@ -29,7 +29,8 @@ Workspace/
 │   ├── models/
 │   └── results/
 │       └── yolo_labels/
-├── yolox/
-│   └── tracker/
-│       └── byte_tracker.py
+
 ```
+
+As for the implementation of ByteTrack, you might need to change the import location of ByteTrack, depending on your install version of ByteTrack.
+I installed it via copying the whole github branch, hence my install location is not within the Workspace folder. (due to registry length issues)
