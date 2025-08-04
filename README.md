@@ -2,6 +2,7 @@
 
 ## The file structure should be the following:
 
+```plaintext
 Workspace/
 ├── DynamicObjectFiltering.py
 ├── Helpers.py
@@ -31,3 +32,4 @@ Workspace/
 ├── yolox/
 │   └── tracker/
 │       └── byte_tracker.py
+```
